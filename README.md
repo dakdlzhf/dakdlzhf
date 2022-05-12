@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Thumbs%20up!!&fontSize=70)  
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Thumbs%20up!!&fontSize=70)  
   
 ### Hello World~ 🚀
   
