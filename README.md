@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&customColorList=0,3,3,2,2,3&height=300&section=header&text=Thumbs%20up!!&fontSize=70&animation=fadeIn")  
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Thumbs%20up!!&fontSize=70&animation=fadeIn")  
   
 ### Hello World~ 🚀
   
