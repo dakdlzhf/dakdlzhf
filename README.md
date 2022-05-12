@@ -2,8 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=wave&customColorList=0,3,3,2,2,3&height=300&section=header&text=Thumbs%20up!!&fontSize=70)  
   
-![header](https://capsule-render.vercel.app/api?type=wave&customColorList=0,3,3,1,1,1&height=300&section=footer&text=Thumbs%20up!!&fontSize=70)  
-  
 ### Hello World~ 🚀
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdakdlzhf%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Today&edge_flat=true)](https://github.com/silentsoft/hits)
@@ -37,3 +35,5 @@
 ![dakdlzhf's github stats](https://github-readme-stats.vercel.app/api?username=dakdlzhf&show_icons=true)  
 [![dakdlzhf's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dakdlzhf&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dakdlzhf)
                                                                                                      </div>
+
+![header](https://capsule-render.vercel.app/api?type=wave&customColorList=0,2,2,5,30&height=300&section=Well&Done=Thumbs%20up!!&fontSize=70)  
